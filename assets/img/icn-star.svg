@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-icn-star">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="icn-star" clip-path="url(#clip-icn-star)">
+    <path id="Path_74" data-name="Path 74" d="M10.2.758l2.478,5.865,6.344.545a.5.5,0,0,1,.285.876L14.5,12.213l1.442,6.2a.5.5,0,0,1-.745.541L9.741,15.668,4.289,18.956a.5.5,0,0,1-.745-.541l1.442-6.2L.173,8.043a.5.5,0,0,1,.285-.876L6.8,6.622,9.28.758a.5.5,0,0,1,.921,0Z" transform="translate(2 2.548)" fill="none" stroke="#93a5ff" stroke-width="0.5"/>
+  </g>
+</svg>

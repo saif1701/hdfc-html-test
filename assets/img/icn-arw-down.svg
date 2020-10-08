@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-icn-arw-down">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="icn-arw-down" clip-path="url(#clip-icn-arw-down)">
+    <path id="icn-arw-down-2" data-name="icn-arw-down" d="M180-1002h9.4l-4.7,5.99Z" transform="translate(-176.632 1007.5)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

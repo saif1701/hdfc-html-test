@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="54" viewBox="0 0 52 54">
+  <defs>
+    <clipPath id="clip-icn-btn-right">
+      <rect width="52" height="54"/>
+    </clipPath>
+  </defs>
+  <g id="icn-btn-right" clip-path="url(#clip-icn-btn-right)">
+    <g id="right_btn" transform="translate(-1758.5 -3227)">
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="52" height="54" rx="5" transform="translate(1758.5 3227)" fill="#93a5ff" opacity="0.15"/>
+      <path id="Path_69" data-name="Path 69" d="M3022,872l8,10.564-8,10.564" transform="translate(-1242 2371)" fill="none" stroke="#889cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
