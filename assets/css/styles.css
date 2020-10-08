@@ -1120,7 +1120,7 @@ a.terms {
 			margin-bottom: 10px;
 		}
 	}
-	@media (max-width: 360px) {
+	@media (max-width: 375px) {
 		header {
 			min-height: 65vh;
 		}
